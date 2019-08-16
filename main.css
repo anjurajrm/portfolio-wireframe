@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.header {
+  background-color: silver;
+}
+.main-img {
+  height: 300px;
+}
+
+section {
+  height: 300px;
+  padding: 10%;
+  border-top: 1px solid silver;
+}
+
+.main-page {
+  height: 300px;
+}
+.main-img {
+  padding: 50px;
+}
+footer {
+  text-align: center;
+}
